@@ -14,7 +14,7 @@ function Header() {
         <img
           className="header__logo"
           src="http://pngimg.com/uploads/amazon/amazon_PNG25.png"
-          alt="header-banner"
+          alt="amazon-logo"
         />
       </Link>
 
@@ -23,10 +23,12 @@ function Header() {
         <SearchIcon className="header__searchIcon" />
       </div>
       <div className="header__nav">
-        <div className="header__option">
-          <span className="header__optionLineOne">Hello Guess</span>
-          <span className="header__optionLineTwo">Sign in</span>
-        </div>
+        <Link to="/login">
+          <div className="header__option">
+            <span className="header__optionLineOne">Hello Guess</span>
+            <span className="header__optionLineTwo">Sign in</span>
+          </div>
+        </Link>
         <div className="header__option">
           <span className="header__optionLineOne">Returns</span>
           <span className="header__optionLineTwo">& Orders</span>

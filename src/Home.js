@@ -23,8 +23,22 @@ const Home = () => {
           <Product
             id="987726"
             title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
-            price={2299.99}
+            price={299.99}
             img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
+            rating={4}
+          />
+          <Product
+            id="909779"
+            title="Garmin 010-02064-00 Instinct, Rugged Outdoor Watch with GPS, Features GLONASS and Galileo"
+            price={223.78}
+            img="https://images-na.ssl-images-amazon.com/images/I/418alsl0odL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
             rating={4}
           />
         </div>
@@ -50,6 +64,130 @@ const Home = () => {
             price={23.99}
             img="https://images-na.ssl-images-amazon.com/images/I/41O4rjSlneL._AC_US160_.jpg"
             rating={5}
+          />
+        </div>
+
+        <div className="home__row">
+          <Product
+            id="133323"
+            title="LG 34WN80C-B 34 inch 21:9 Curved UltraWide WQHD IPS Monitor with USB Type-C Connectivity sRGB 99% Color Gamut and HDR10 Compatibility, Black (2019)"
+            price={599.99}
+            img="https://images-na.ssl-images-amazon.com/images/I/81WBbFOEHwL._AC_SL1500_.jpg"
+            rating={5}
+          />
+        </div>
+
+        <div className="home__row">
+          <Product
+            id="228787"
+            title="AmazonBasics Underseat, Carry-On Rolling Travel Luggage Bag with Wheels, 14 Inches"
+            price={22.99}
+            img="https://m.media-amazon.com/images/I/91qC+UYYwIL._AC_UL320_.jpg"
+            rating={5}
+          />
+          <Product
+            id="987726"
+            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
+            price={299.99}
+            img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
+            rating={4}
+          />
+          <Product
+            id="909779"
+            title="Garmin 010-02064-00 Instinct, Rugged Outdoor Watch with GPS, Features GLONASS and Galileo"
+            price={223.78}
+            img="https://images-na.ssl-images-amazon.com/images/I/418alsl0odL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
+            rating={4}
+          />
+        </div>
+
+        <div className="home__row">
+          <Product
+            id="228787"
+            title="AmazonBasics Underseat, Carry-On Rolling Travel Luggage Bag with Wheels, 14 Inches"
+            price={22.99}
+            img="https://m.media-amazon.com/images/I/91qC+UYYwIL._AC_UL320_.jpg"
+            rating={5}
+          />
+          <Product
+            id="987726"
+            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
+            price={299.99}
+            img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
+            rating={4}
+          />
+          <Product
+            id="909779"
+            title="Garmin 010-02064-00 Instinct, Rugged Outdoor Watch with GPS, Features GLONASS and Galileo"
+            price={223.78}
+            img="https://images-na.ssl-images-amazon.com/images/I/418alsl0odL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
+            rating={4}
+          />
+        </div>
+
+        <div className="home__row">
+          <Product
+            id="228787"
+            title="AmazonBasics Underseat, Carry-On Rolling Travel Luggage Bag with Wheels, 14 Inches"
+            price={22.99}
+            img="https://m.media-amazon.com/images/I/91qC+UYYwIL._AC_UL320_.jpg"
+            rating={5}
+          />
+          <Product
+            id="987726"
+            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
+            price={299.99}
+            img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
+            rating={4}
+          />
+          <Product
+            id="909779"
+            title="Garmin 010-02064-00 Instinct, Rugged Outdoor Watch with GPS, Features GLONASS and Galileo"
+            price={223.78}
+            img="https://images-na.ssl-images-amazon.com/images/I/418alsl0odL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
+            rating={4}
+          />
+          <Product
+            id="933543"
+            title="Ring Fit Adventure - Nintendo Switch"
+            price={79}
+            img="https://images-na.ssl-images-amazon.com/images/I/51ZIQxjxTxL._AC_US218_.jpg"
+            rating={4}
           />
         </div>
 
