@@ -87,7 +87,7 @@ const Home = () => {
           />
           <Product
             id="987726"
-            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
+            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling"
             price={299.99}
             img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
             rating={4}
@@ -125,7 +125,7 @@ const Home = () => {
           />
           <Product
             id="987726"
-            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
+            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling"
             price={299.99}
             img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
             rating={4}
@@ -163,7 +163,7 @@ const Home = () => {
           />
           <Product
             id="987726"
-            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling, with Alexa voice control - Black"
+            title="Bose QuietComfort 35 II Wireless Bluetooth Headphones, Noise-Cancelling"
             price={299.99}
             img="https://images-na.ssl-images-amazon.com/images/I/41jSuUHT8eL._AC_US160_.jpg"
             rating={4}
