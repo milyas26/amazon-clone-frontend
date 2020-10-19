@@ -11,6 +11,7 @@
 
 .checkoutProduct__info {
   padding-left: 20px;
+  flex: 1;
 }
 
 .checkoutProduct__title {
